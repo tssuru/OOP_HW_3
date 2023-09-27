@@ -1,0 +1,14 @@
+C:\Users\home\VS_projects\HW_3_OOP\bin\Debug\net6.0\HW_3_OOP.exe
+C:\Users\home\VS_projects\HW_3_OOP\bin\Debug\net6.0\HW_3_OOP.deps.json
+C:\Users\home\VS_projects\HW_3_OOP\bin\Debug\net6.0\HW_3_OOP.runtimeconfig.json
+C:\Users\home\VS_projects\HW_3_OOP\bin\Debug\net6.0\HW_3_OOP.dll
+C:\Users\home\VS_projects\HW_3_OOP\bin\Debug\net6.0\HW_3_OOP.pdb
+C:\Users\home\VS_projects\HW_3_OOP\obj\Debug\net6.0\HW_3_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\VS_projects\HW_3_OOP\obj\Debug\net6.0\HW_3_OOP.AssemblyInfoInputs.cache
+C:\Users\home\VS_projects\HW_3_OOP\obj\Debug\net6.0\HW_3_OOP.AssemblyInfo.cs
+C:\Users\home\VS_projects\HW_3_OOP\obj\Debug\net6.0\HW_3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\home\VS_projects\HW_3_OOP\obj\Debug\net6.0\HW_3_OOP.dll
+C:\Users\home\VS_projects\HW_3_OOP\obj\Debug\net6.0\refint\HW_3_OOP.dll
+C:\Users\home\VS_projects\HW_3_OOP\obj\Debug\net6.0\HW_3_OOP.pdb
+C:\Users\home\VS_projects\HW_3_OOP\obj\Debug\net6.0\HW_3_OOP.genruntimeconfig.cache
+C:\Users\home\VS_projects\HW_3_OOP\obj\Debug\net6.0\ref\HW_3_OOP.dll
